@@ -1,0 +1,23 @@
+html {
+    background-color: pink;
+
+}
+
+.site-title {
+    color: lavender;
+
+}
+
+.global-nav {
+   border-style: dotted;
+   background-color: papayawhip;
+   padding: 50px;
+
+}
+
+.local-nav {
+    border-style: dotted;
+    background-color: peachpuff;
+    padding: 50px;
+
+}
